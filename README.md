@@ -1,4 +1,3 @@
-# BFES
 <p align="center">
 	<b>BFES</b>
 	<br>
