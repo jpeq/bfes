@@ -11,6 +11,6 @@ BFES is chaning the real file extension from `.exe` to `.scr` \
 and uses the Right-To-Left Override unicode character `[U+202E]`, which mirrors all characters written after it.
 
 # Usage
-Run **bfes.bat**.\
+Run **BFES.bat**.\
 Drag the executable file into the console.\
 Choose the fake extension.
