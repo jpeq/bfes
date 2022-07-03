@@ -7,7 +7,7 @@
 </p>
 
 # How does it work?
-BFES is chaning the real file extension from `.exe` to `.scr` \
+BFES is changing the real file extension from `.exe` to `.scr` \
 and uses the Right-To-Left Override unicode character `[U+202E]`, which mirrors all characters written after it.
 
 # Usage
